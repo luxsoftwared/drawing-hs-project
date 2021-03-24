@@ -1,0 +1,18 @@
+C:\Users\KAREN\source\repos\Draw Point\Draw Point\bin\Debug\Draw Point.exe.config
+C:\Users\KAREN\source\repos\Draw Point\Draw Point\bin\Debug\Draw Point.exe
+C:\Users\KAREN\source\repos\Draw Point\Draw Point\bin\Debug\Draw Point.pdb
+C:\Users\KAREN\source\repos\Draw Point\Draw Point\obj\Debug\Draw Point.csprojResolveAssemblyReference.cache
+C:\Users\KAREN\source\repos\Draw Point\Draw Point\obj\Debug\Draw_Point.Form1.resources
+C:\Users\KAREN\source\repos\Draw Point\Draw Point\obj\Debug\Draw_Point.Properties.Resources.resources
+C:\Users\KAREN\source\repos\Draw Point\Draw Point\obj\Debug\Draw Point.csproj.GenerateResource.cache
+C:\Users\KAREN\source\repos\Draw Point\Draw Point\obj\Debug\Draw Point.exe
+C:\Users\KAREN\source\repos\Draw Point\Draw Point\obj\Debug\Draw Point.pdb
+C:\Users\Dell\Desktop\Draw Point\Draw Point\Draw Point\bin\Debug\Draw Point.exe.config
+C:\Users\Dell\Desktop\Draw Point\Draw Point\Draw Point\obj\Debug\Draw Point.exe
+C:\Users\Dell\Desktop\Draw Point\Draw Point\Draw Point\obj\Debug\Draw Point.pdb
+C:\Users\Dell\Desktop\Draw Point\Draw Point\Draw Point\bin\Debug\Draw Point.exe
+C:\Users\Dell\Desktop\Draw Point\Draw Point\Draw Point\bin\Debug\Draw Point.pdb
+C:\Users\Dell\Desktop\Draw Point\Draw Point\Draw Point\obj\Debug\Draw Point.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Draw Point\Draw Point\Draw Point\obj\Debug\Draw_Point.Form1.resources
+C:\Users\Dell\Desktop\Draw Point\Draw Point\Draw Point\obj\Debug\Draw_Point.Properties.Resources.resources
+C:\Users\Dell\Desktop\Draw Point\Draw Point\Draw Point\obj\Debug\Draw Point.csproj.GenerateResource.Cache
